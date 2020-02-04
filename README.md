@@ -1,2 +1,2 @@
-# helper_scripts
+# Helper Scripts
 Scripts automate some of the mundane jobs
